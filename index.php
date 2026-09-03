@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chairivo · premium office chairs</title>
+  <meta name="description"
+      content="Shop premium ergonomic office chairs designed for all-day comfort, posture support, and productive workspaces across the United States.">
+
   <!-- Font & Icons (clean, no frameworks) -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <style>
@@ -958,7 +961,6 @@
         <a href="#home">Home</a>
         <a href="#chairs">Office Chairs</a>
         <a href="#features">Features</a>
-        <a href="#reviews">Reviews</a>
         <a href="#contact">Contact</a>
         <a href="#privacy">Privacy Policy</a>
       </div>
@@ -1115,19 +1117,6 @@
     revealEls.forEach(el => revealObserver.observe(el));
 
  
-
-    // ----- NEWSLETTER -----
-    document.getElementById('newsletterForm').addEventListener('submit', function(e) {
-      e.preventDefault();
-      const email = document.getElementById('newsletterEmail').value.trim();
-      const fb = document.getElementById('newsletterFeedback');
-      if (!email || !email.includes('@')) {
-        fb.innerHTML = '<div style="color:#b33; margin-top:8px;">Please enter a valid email.</div>';
-        return;
-      }
-      fb.innerHTML = '<div class="success-msg">✅ You\'re subscribed! (demo)</div>';
-      this.reset();
-    });
 
   })();
 </script>
