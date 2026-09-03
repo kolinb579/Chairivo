@@ -936,13 +936,7 @@
 
 </p>
 
-<div class="privacy-note">
-  <strong>Privacy Notice:</strong>
-  This Privacy Policy is provided as website template content for the
-  fictional Chairivo brand. Replace the company name, address, contact
-  details, data practices, payment providers, cookies, and applicable legal
-  requirements with your actual business information before publishing.
-</div>
+
 
 
   </div>
@@ -1118,6 +1112,7 @@
 
  
 
+    
   })();
 </script>
 </body>
