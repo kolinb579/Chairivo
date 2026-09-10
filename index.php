@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+<script src="https://app.zerocloak.com/web-analytics.js/mjuon6zgbm"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chairivo · premium office chairs</title>
@@ -1116,9 +1116,6 @@
     
   })();
 </script>
-<!-- Hitsteps TRACKING CODE - Manual 2026-09-10 - DO NOT CHANGE -->
-<script type="text/javascript">(function(){var hstc=document.createElement('script'); hstc.src='https://edgecdnplus.com/code?code=c2faf1e7fea09350e4b9417637158636';hstc.async=true;var htssc = document.getElementsByTagName('script')[0];htssc.parentNode.insertBefore(hstc, htssc);})();
-</script><noscript><a href="http://www.hitsteps.com/"><img src="//edgecdnplus.com/code?mode=img&amp;code=c2faf1e7fea09350e4b9417637158636" alt="visitor activity monitoring" width="1" height="1" />web statistics</a></noscript>
-<!-- Hitsteps TRACKING CODE - DO NOT CHANGE -->
+
 </body>
 </html>
